@@ -44,5 +44,5 @@ Você verá um QR Code no terminal. Agora você tem duas opções:
 #### Opção B: Rodar no Emulador (Computador)
 1. Garanta que o emulador (Android Studio ou Simulator do Xcode) já esteja aberto e rodando.
 2. No terminal onde você rodou o npx expo start, pressione a tecla correspondente:
-* Pressione a para abrir no Android.
-* Pressione i para abrir no iOS (apenas Mac).
+  * Pressione a para abrir no Android.
+  * Pressione i para abrir no iOS (apenas Mac).
