@@ -33,16 +33,33 @@ Com tudo instalado, inicie o servidor de desenvolvimento do Expo:
 npx expo start
 ```
 
-Você verá um QR Code no terminal. Agora você tem duas opções:
+Você verá um **QR Code** no terminal. A partir disso, você tem duas opções:
 
-#### Opção A: Rodar no seu Celular (Físico)
-1. Baixe o aplicativo Expo Go na Google Play Store ou Apple App Store.
-2. Garanta que seu celular e seu computador estejam conectados na mesma rede Wi-Fi.
-3. Android: Abra o Expo Go e escaneie o QR Code que apareceu no terminal.
-4. iOS (iPhone): Abra o app Câmera padrão do iOS, aponte para o QR Code e toque na notificação para abrir no Expo Go.
+---
 
-#### Opção B: Rodar no Emulador (Computador)
-1. Garanta que o emulador (Android Studio ou Simulator do Xcode) já esteja aberto e rodando.
-2. No terminal onde você rodou o npx expo start, pressione a tecla correspondente:
- 1. Pressione a para abrir no Android.
- 2. Pressione i para abrir no iOS (apenas Mac).
+## 📱 Opção A: Rodar no celular físico
+
+1. Baixe o aplicativo **Expo Go**:
+   - Google Play Store (Android)
+   - Apple App Store (iOS)
+
+2. Certifique-se de que o **celular e o computador** estejam conectados à **mesma rede Wi-Fi**.
+
+3. **Android**  
+   - Abra o **Expo Go** e escaneie o QR Code exibido no terminal.
+
+4. **iOS (iPhone)**  
+   - Abra o app **Câmera** padrão do iOS.  
+   - Aponte para o QR Code e toque na notificação para abrir no **Expo Go**.
+
+---
+
+## 💻 Opção B: Rodar no emulador (computador)
+
+1. Garanta que o emulador esteja aberto e em execução:
+   - **Android Studio** (Android)
+   - **Xcode Simulator** (iOS)
+
+2. No terminal onde você executou `npx expo start`, pressione:
+   - **`a`** → abrir no Android  
+   - **`i`** → abrir no iOS *(apenas no macOS)*
