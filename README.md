@@ -1,17 +1,17 @@
-# Pokémon Quiz (1º trabalho da disciplina Tópicos em Desenvolvimento de Aplicativos)
+# 🎮 Pokémon Quiz (1º trabalho da disciplina Tópicos em Desenvolvimento de Aplicativos)
 
-## Como Executar o Projeto
+## 📋 Como Executar o Projeto
 Siga os passos abaixo para baixar, configurar e rodar a aplicação em sua máquina local.
 
 
-## Pré-requisitos
+## 🛠 Pré-requisitos
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
 * Node.js (versão LTS recomendada)
 * Git
 * Dispositivo móvel com o app Expo Go instalado (Android ou iOS) OU um emulador configurado (Android Studio ou Xcode).
 
-## 1. Clonar o Repositório
+## 🚀 1. Clonar o Repositório
 Abra o seu terminal (CMD, PowerShell, Terminal do VS Code) e execute o comando para baixar os arquivos do projeto:
 ```bash
 git clone https://github.com/rbrmrtns/Trab1-TDA.git
@@ -22,13 +22,13 @@ Em seguida, entre na pasta do projeto que acabou de ser criada:
 cd Trab1-TDA
 ```
 
-## 2. Instalar as Dependências
+## 📦 2. Instalar as Dependências
 Agora é necessário baixar as bibliotecas (node_modules) que o projeto utiliza.
 ```bash
 npm install
 ```
  
-## 3. Executar a Aplicação
+## 📱 3. Executar a Aplicação
 Com tudo instalado, inicie o servidor de desenvolvimento do Expo:
 ```bash
 npx expo start
